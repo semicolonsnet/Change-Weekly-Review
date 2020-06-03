@@ -1,0 +1,1 @@
+{"author":"Chase Nordengren","identifier":"com.semicolons.omnifocus.changeweeklyreview","version":"0.1","description":"A plugin that sets the date of your weekly review based on user input. Impacts all tasks set to be reviewed in the next six days","actions":[{"image":"icon.png","identifier":"ChangeWeeklyReview"}],"defaultLocale":"en"}
